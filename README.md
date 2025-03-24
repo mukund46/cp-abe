@@ -1,6 +1,4 @@
 # cp-abe
-Thought for 3 seconds### CP-ABE Secure File Sharing System
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
